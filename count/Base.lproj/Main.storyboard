@@ -72,6 +72,10 @@
                                     <action selector="plus" destination="BYZ-38-t0r" eventType="touchUpInside" id="nMu-S5-X78"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_1508.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="xCX-cO-byb">
+                                <rect key="frame" x="0.0" y="201" width="375" height="446"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -85,4 +89,7 @@
             <point key="canvasLocation" x="-58.399999999999999" y="109.35960591133005"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="IMG_1508.jpeg" width="4096" height="2304"/>
+    </resources>
 </document>
